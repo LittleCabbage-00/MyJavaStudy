@@ -6,7 +6,7 @@ public class ErrDemo_0 {
         try{
             System.out.println(Integer.parseInt(str)) ;
         }catch(Exception e){
-            e.printStackTrace();
+            //e.printStackTrace();
             System.err.println(e) ;
         }
     }
