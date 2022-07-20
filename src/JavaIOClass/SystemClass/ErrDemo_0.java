@@ -1,5 +1,5 @@
 package JavaIOClass.SystemClass;
-//System.err错误信息输出 err
+//System.err错误信息输出 err输出
 public class ErrDemo_0 {
     public static void main(String[] args) {
         String str = "something" ;
